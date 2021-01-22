@@ -1,5 +1,5 @@
 function Home(){
-    <h1>Home 10</h1>
+    <h1>Página Principal</h1>
 }
 
 export default Home
